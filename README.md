@@ -1,1 +1,2 @@
-# DeeplearingAI_NLP_Specialization
+# DeepLearning.ai NLP Specialization
+### Solutions and Materials 
